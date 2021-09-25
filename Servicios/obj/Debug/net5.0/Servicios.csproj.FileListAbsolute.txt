@@ -1,0 +1,58 @@
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\bin\Debug\net5.0\appsettings.Development.json
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\bin\Debug\net5.0\appsettings.json
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\bin\Debug\net5.0\Servicios.exe
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\bin\Debug\net5.0\Servicios.deps.json
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\bin\Debug\net5.0\Servicios.runtimeconfig.json
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\bin\Debug\net5.0\Servicios.runtimeconfig.dev.json
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\bin\Debug\net5.0\Servicios.dll
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\bin\Debug\net5.0\ref\Servicios.dll
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\bin\Debug\net5.0\Servicios.pdb
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.AssemblyInfoInputs.cache
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.AssemblyInfo.cs
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.csproj.CoreCompileInputs.cache
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.MvcApplicationPartsAssemblyInfo.cs
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.MvcApplicationPartsAssemblyInfo.cache
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\staticwebassets\Servicios.StaticWebAssets.Manifest.cache
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\staticwebassets\Servicios.StaticWebAssets.xml
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\scopedcss\bundle\Servicios.styles.css
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.RazorTargetAssemblyInfo.cache
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.csproj.CopyComplete
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.dll
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\ref\Servicios.dll
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.pdb
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.genruntimeconfig.cache
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.csproj.AssemblyReference.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\appsettings.Development.json
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\appsettings.json
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\Servicios.exe
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\Servicios.deps.json
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\Servicios.runtimeconfig.json
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\Servicios.runtimeconfig.dev.json
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\Servicios.dll
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\ref\Servicios.dll
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\Servicios.pdb
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.csproj.AssemblyReference.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.AssemblyInfoInputs.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.AssemblyInfo.cs
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.csproj.CoreCompileInputs.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.MvcApplicationPartsAssemblyInfo.cs
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.MvcApplicationPartsAssemblyInfo.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\staticwebassets\Servicios.StaticWebAssets.Manifest.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\staticwebassets\Servicios.StaticWebAssets.xml
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\scopedcss\bundle\Servicios.styles.css
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.RazorTargetAssemblyInfo.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.csproj.CopyComplete
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.dll
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\ref\Servicios.dll
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.pdb
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.genruntimeconfig.cache

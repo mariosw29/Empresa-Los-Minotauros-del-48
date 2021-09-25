@@ -1,0 +1,24 @@
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Dominio\bin\Debug\net5.0\Dominio.deps.json
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Dominio\bin\Debug\net5.0\Dominio.dll
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Dominio\bin\Debug\net5.0\Dominio.pdb
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Dominio\obj\Debug\net5.0\Dominio.dll
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Dominio\obj\Debug\net5.0\Dominio.pdb
+E:\MINTIC2022\Ciclo 3\Programación\Empresa\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Dominio\bin\Debug\net5.0\Dominio.deps.json
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Dominio\bin\Debug\net5.0\Dominio.dll
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Dominio\bin\Debug\net5.0\Dominio.pdb
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Dominio\obj\Debug\net5.0\Dominio.dll
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Dominio\obj\Debug\net5.0\Dominio.pdb
