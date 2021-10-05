@@ -15,7 +15,12 @@ namespace Persistencia
         public DbSet<Proveedor> Proveedors { get; set; }
         public DbSet<Productos> Productos { get; set; }
 
-        
+        public AplicacionContext() { }
+
+            public AplicacionContext(DbContextOptions<AplicacionContext> options)
+            :base(options)
+        {
+        }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){
             if(!optionsBuilder.IsConfigured){
                 optionsBuilder

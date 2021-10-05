@@ -16,11 +16,6 @@ E:\MINTIC2022\Ciclo 3\Programación\Empresa\Persistencia\obj\Debug\net5.0\Persis
 E:\MINTIC2022\Ciclo 3\Programación\Empresa\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
 E:\MINTIC2022\Ciclo 3\Programación\Empresa\Persistencia\obj\Debug\net5.0\Persistencia.pdb
 E:\MINTIC2022\Ciclo 3\Programación\Empresa\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
-E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
-E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
-E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
-E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
-E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
@@ -29,6 +24,11 @@ E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\bin\Debug\net5.0\ref\Pe
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\bin\Debug\net5.0\Persistencia.pdb
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\bin\Debug\net5.0\Dominio.dll
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\bin\Debug\net5.0\Dominio.pdb
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\obj\Debug\net5.0\Persistencia.dll
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll

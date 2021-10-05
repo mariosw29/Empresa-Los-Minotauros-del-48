@@ -40,7 +40,6 @@ E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\Microsoft
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.csproj.AssemblyReference.cache
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.AssemblyInfoInputs.cache
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.AssemblyInfo.cs
@@ -56,3 +55,4 @@ E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\ref\Servicios.dll
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.pdb
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.genruntimeconfig.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Servicios\obj\Debug\net5.0\Servicios.csproj.AssemblyReference.cache

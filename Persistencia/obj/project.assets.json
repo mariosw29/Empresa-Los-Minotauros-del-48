@@ -5,7 +5,7 @@
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/_._": {}
+          "lib/netstandard2.0/Humanizer.dll": {}
         },
         "runtime": {
           "lib/netstandard2.0/Humanizer.dll": {}
@@ -88,11 +88,11 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore/5.0.10": {
+      "Microsoft.EntityFrameworkCore/5.0.9": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Abstractions": "5.0.10",
-          "Microsoft.EntityFrameworkCore.Analyzers": "5.0.10",
+          "Microsoft.EntityFrameworkCore.Abstractions": "5.0.9",
+          "Microsoft.EntityFrameworkCore.Analyzers": "5.0.9",
           "Microsoft.Extensions.Caching.Memory": "5.0.0",
           "Microsoft.Extensions.DependencyInjection": "5.0.2",
           "Microsoft.Extensions.Logging": "5.0.0",
@@ -107,7 +107,7 @@
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Abstractions/5.0.10": {
+      "Microsoft.EntityFrameworkCore.Abstractions/5.0.9": {
         "type": "package",
         "compile": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Abstractions.dll": {}
@@ -116,7 +116,7 @@
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Abstractions.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Analyzers/5.0.10": {
+      "Microsoft.EntityFrameworkCore.Analyzers/5.0.9": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/_._": {}
@@ -125,15 +125,15 @@
           "lib/netstandard2.0/_._": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Design/5.0.10": {
+      "Microsoft.EntityFrameworkCore.Design/5.0.9": {
         "type": "package",
         "dependencies": {
           "Humanizer.Core": "2.8.26",
           "Microsoft.CSharp": "4.7.0",
-          "Microsoft.EntityFrameworkCore.Relational": "5.0.10"
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.9"
         },
         "compile": {
-          "lib/netstandard2.1/_._": {}
+          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {}
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {}
@@ -142,10 +142,10 @@
           "build/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.props": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Relational/5.0.10": {
+      "Microsoft.EntityFrameworkCore.Relational/5.0.9": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "5.0.10",
+          "Microsoft.EntityFrameworkCore": "5.0.9",
           "Microsoft.Extensions.Configuration.Abstractions": "5.0.0"
         },
         "compile": {
@@ -155,11 +155,11 @@
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Relational.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/5.0.10": {
+      "Microsoft.EntityFrameworkCore.SqlServer/5.0.9": {
         "type": "package",
         "dependencies": {
           "Microsoft.Data.SqlClient": "2.0.1",
-          "Microsoft.EntityFrameworkCore.Relational": "5.0.10"
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.9"
         },
         "compile": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
@@ -168,10 +168,10 @@
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Tools/5.0.10": {
+      "Microsoft.EntityFrameworkCore.Tools/5.0.9": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": "5.0.10"
+          "Microsoft.EntityFrameworkCore.Design": "5.0.9"
         },
         "compile": {
           "lib/netstandard2.1/_._": {}
@@ -427,6 +427,21 @@
             "assetType": "runtime",
             "rid": "win"
           }
+        }
+      },
+      "MSBuild.Microsoft.VisualStudio.Web.targets/14.0.0.3": {
+        "type": "package",
+        "build": {
+          "build/MSBuild.Microsoft.VisualStudio.Web.targets.props": {}
+        }
+      },
+      "MSBuild.Sdk.Extras/3.0.38": {
+        "type": "package"
+      },
+      "MSBuildTasks/1.5.0.235": {
+        "type": "package",
+        "build": {
+          "build/MSBuildTasks.targets": {}
         }
       },
       "Newtonsoft.Json/10.0.1": {
@@ -1699,52 +1714,52 @@
         "runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb"
       ]
     },
-    "Microsoft.EntityFrameworkCore/5.0.10": {
-      "sha512": "w5+5oewaQWDj4ChxxjLhdxIi98dK+kq7wvqnTco9PodkqHIDMfKk+5fQCQGLQrbhTdNaqyfYE1ApFP66mLXv6Q==",
+    "Microsoft.EntityFrameworkCore/5.0.9": {
+      "sha512": "mA+W/zpJZMp802xt2D+qBXrme4VFN+FlsrHdU6WG5HKDAnezClRksJhJicUR8XojnSPp9SgZKa1aIAasB5G67g==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore/5.0.10",
+      "path": "microsoft.entityframeworkcore/5.0.9",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.dll",
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.xml",
-        "microsoft.entityframeworkcore.5.0.10.nupkg.sha512",
+        "microsoft.entityframeworkcore.5.0.9.nupkg.sha512",
         "microsoft.entityframeworkcore.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Abstractions/5.0.10": {
-      "sha512": "Ib85lZI/jxvsKcCS0GHVeqBv/JGzEvKa6HkoyxNu0EDmzDoh4OFl+dDKSx4Vr6I5YWT7nQj3sz6I4I0wHSN0xg==",
+    "Microsoft.EntityFrameworkCore.Abstractions/5.0.9": {
+      "sha512": "csbpDaXe9iQUkvDS3JZRAFfkgcRA7BlHE3u8feBLlYervmTAS1WIWPBZKMtH0a2GO5njwAABU3j+hZMCPYBrzQ==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.abstractions/5.0.10",
+      "path": "microsoft.entityframeworkcore.abstractions/5.0.9",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Abstractions.dll",
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Abstractions.xml",
-        "microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",
+        "microsoft.entityframeworkcore.abstractions.5.0.9.nupkg.sha512",
         "microsoft.entityframeworkcore.abstractions.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Analyzers/5.0.10": {
-      "sha512": "MBnG+g6jrmK72y4rU+4y2btHrl72i2q3zrXG3pj2zZGXXrG9Q4SlwL5ul0ASmQXYjhJ4VpDfd4o1/gdRPsa2jA==",
+    "Microsoft.EntityFrameworkCore.Analyzers/5.0.9": {
+      "sha512": "eyuPLRFjcF7VWH8qy1uUuMrO02W15n9EXAXnYjCTWgH0SDIeZAa2XZXMZ9U3dvOPtvllMBy0obYA5SSbnpaNoQ==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.analyzers/5.0.10",
+      "path": "microsoft.entityframeworkcore.analyzers/5.0.9",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "analyzers/dotnet/cs/Microsoft.EntityFrameworkCore.Analyzers.dll",
         "lib/netstandard2.0/_._",
-        "microsoft.entityframeworkcore.analyzers.5.0.10.nupkg.sha512",
+        "microsoft.entityframeworkcore.analyzers.5.0.9.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Design/5.0.10": {
-      "sha512": "zazeCOcEuK7vsQPEtzNC7D1zaUBWxfjyhajypISNm2n9o1SBXEgVReVrn+Edj4SBy8ofoaXRfY01YYxbDwCMQQ==",
+    "Microsoft.EntityFrameworkCore.Design/5.0.9": {
+      "sha512": "eNf6vkQAdVkYMEADUrXTPtlgxw7EwkbU8jyaOEdz3J/3JFz2yzdVIwJg66RNMuoqDrktAG1bcR64YEys6DXVFw==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.design/5.0.10",
+      "path": "microsoft.entityframeworkcore.design/5.0.9",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1752,49 +1767,49 @@
         "build/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.props",
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll",
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.xml",
-        "microsoft.entityframeworkcore.design.5.0.10.nupkg.sha512",
+        "microsoft.entityframeworkcore.design.5.0.9.nupkg.sha512",
         "microsoft.entityframeworkcore.design.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Relational/5.0.10": {
-      "sha512": "3l7GA+0y5E3kDOl85KRHhC0zXYA/CyQBQqDXvFGkqYzdPMRyWQkaQz2+yN4CN/SC+TVa48FPIAc2Wim8aWAliQ==",
+    "Microsoft.EntityFrameworkCore.Relational/5.0.9": {
+      "sha512": "rGXoju3HtnxtdYlH7/lOyVlKJ9fZSwORukVCN250Aub2gx9bEmfXlDHeM9Gw9bkeunLEx3OoqL6DAz9VW8YTJA==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.relational/5.0.10",
+      "path": "microsoft.entityframeworkcore.relational/5.0.9",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Relational.dll",
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Relational.xml",
-        "microsoft.entityframeworkcore.relational.5.0.10.nupkg.sha512",
+        "microsoft.entityframeworkcore.relational.5.0.9.nupkg.sha512",
         "microsoft.entityframeworkcore.relational.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.SqlServer/5.0.10": {
-      "sha512": "HyZK8UIsoI14uIMF6eNlg4lCzWWxRrwBVJ8ZJztOqhqQSO/3TX03MzoPnz/yMN5Hqv+2lbEp29wnuUowjGEcng==",
+    "Microsoft.EntityFrameworkCore.SqlServer/5.0.9": {
+      "sha512": "WGKYDApx75QRQ8LecGoPi5tvwHM8CvHz383U4c9zfW2Pjz+yUNUL4XAzLRlkg9QyE7USGk4VnAVNS0sTXK4qVQ==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.sqlserver/5.0.10",
+      "path": "microsoft.entityframeworkcore.sqlserver/5.0.9",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.dll",
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.xml",
-        "microsoft.entityframeworkcore.sqlserver.5.0.10.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlserver.5.0.9.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Tools/5.0.10": {
-      "sha512": "tZyRQ01KmPIGXO/jGGG9OrxKvFUckgq65FvGmYjwDazgBXIvfX2kdxXp2nN5gIQOiSMPMpRu8RDqI+2InyBuMg==",
+    "Microsoft.EntityFrameworkCore.Tools/5.0.9": {
+      "sha512": "BdNfn6IzyD6r6XpjnOn7HuWKryVzT6TnDIH8MZLD3d/wLG24V0BYB1Dyr6wnAqgGXXCZxJf77YES5nobge56aA==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.tools/5.0.10",
+      "path": "microsoft.entityframeworkcore.tools/5.0.9",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/netstandard2.1/_._",
-        "microsoft.entityframeworkcore.tools.5.0.10.nupkg.sha512",
+        "microsoft.entityframeworkcore.tools.5.0.9.nupkg.sha512",
         "microsoft.entityframeworkcore.tools.nuspec",
         "tools/EntityFrameworkCore.PS2.psd1",
         "tools/EntityFrameworkCore.PS2.psm1",
@@ -2249,6 +2264,123 @@
         "runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.xml",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "MSBuild.Microsoft.VisualStudio.Web.targets/14.0.0.3": {
+      "sha512": "38FjZFXUvPG9azsfJzC3UiW6+ogg2jPQBZxtAUV4ybIowiUuHgDS9M2EAeFPBivqiUgALqXh1BoAHSmTiT52gA==",
+      "type": "package",
+      "path": "msbuild.microsoft.visualstudio.web.targets/14.0.0.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/MSBuild.Microsoft.VisualStudio.Web.targets.props",
+        "msbuild.microsoft.visualstudio.web.targets.14.0.0.3.nupkg.sha512",
+        "msbuild.microsoft.visualstudio.web.targets.nuspec",
+        "tools/VSToolsPath/Web/CollectFiles/Microsoft.Web.Publishing.AllFilesInProjectFolder.targets",
+        "tools/VSToolsPath/Web/CollectFiles/Microsoft.Web.Publishing.AllFilesInTheProject.targets",
+        "tools/VSToolsPath/Web/CollectFiles/Microsoft.Web.Publishing.OnlyFilesToRunTheApp.targets",
+        "tools/VSToolsPath/Web/Deploy/Microsoft.Web.Publishing.Deploy.FPSE.targets",
+        "tools/VSToolsPath/Web/Deploy/Microsoft.Web.Publishing.Deploy.FTP.targets",
+        "tools/VSToolsPath/Web/Deploy/Microsoft.Web.Publishing.Deploy.FileSystem.targets",
+        "tools/VSToolsPath/Web/Deploy/Microsoft.Web.Publishing.Deploy.MsDeploy.targets",
+        "tools/VSToolsPath/Web/Deploy/Microsoft.Web.Publishing.Deploy.Package.targets",
+        "tools/VSToolsPath/Web/Deploy/Microsoft.Web.Publishing.MsDeploy.Common.targets",
+        "tools/VSToolsPath/Web/Microsoft.DNX.Publishing.targets",
+        "tools/VSToolsPath/Web/Microsoft.Web.Publishing.Tasks.dll",
+        "tools/VSToolsPath/Web/Microsoft.Web.Publishing.targets",
+        "tools/VSToolsPath/Web/Microsoft.Web.Publishing/ImportAfter/Microsoft.Web.AzureAD.Publishing.targets",
+        "tools/VSToolsPath/Web/Microsoft.Web.XmlTransform.dll",
+        "tools/VSToolsPath/Web/Microsoft.WebSite.Publishing.targets",
+        "tools/VSToolsPath/Web/Powershell/1.0.1/default-publish.ps1",
+        "tools/VSToolsPath/Web/Powershell/1.0.1/filesystem.pubxml",
+        "tools/VSToolsPath/Web/Powershell/1.0.1/package.pubxml",
+        "tools/VSToolsPath/Web/Powershell/1.0.1/publish-module.psm1",
+        "tools/VSToolsPath/Web/Transform/Microsoft.Web.Publishing.AspNetCompileMerge.targets",
+        "tools/VSToolsPath/WebApplications/Microsoft.WebApplication.Build.Tasks.Dll",
+        "tools/VSToolsPath/WebApplications/Microsoft.WebApplication.targets"
+      ]
+    },
+    "MSBuild.Sdk.Extras/3.0.38": {
+      "sha512": "EsLkgnnOe0j27O0KHQ2wqYxPZ6UrID9jGm2defZxshJ0Vu05NlvriakijzVFr0NOD/5OfhOUhxQ9qdY22U3+Kw==",
+      "type": "package",
+      "path": "msbuild.sdk.extras/3.0.38",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Build/Core.props",
+        "Build/Core.targets",
+        "Build/ExtrasShim.targets",
+        "Build/FrameworkResolvers/NETFramework.targets",
+        "Build/FrameworkResolvers/NETPortable.v4.0.targets",
+        "Build/FrameworkResolvers/NETPortable.v4.5.targets",
+        "Build/FrameworkResolvers/NETPortable.v4.6.targets",
+        "Build/FrameworkResolvers/NETPortable.v5.0.targets",
+        "Build/Inference.targets",
+        "Build/LanguageTargets/CheckMissing.targets",
+        "Build/LanguageTargets/Portable.targets",
+        "Build/LanguageTargets/Silverlight.targets",
+        "Build/LanguageTargets/Windows.targets",
+        "Build/LanguageTargets/WindowsPhone.targets",
+        "Build/LanguageTargets/Xamarin.targets",
+        "Build/Platforms.targets",
+        "Build/Platforms/NETFramework.targets",
+        "Build/Platforms/Portable.targets",
+        "Build/Platforms/Silverlight.targets",
+        "Build/Platforms/Tizen.targets",
+        "Build/Platforms/Windows.targets",
+        "Build/Platforms/WindowsPhone.targets",
+        "Build/Platforms/Xamarin.targets",
+        "Build/Platforms/Xamarin/Xamarin.Android.targets",
+        "Build/Platforms/Xamarin/Xamarin.Mac.targets",
+        "Build/Platforms/Xamarin/Xamarin.TVOS.targets",
+        "Build/Platforms/Xamarin/Xamarin.WatchOS.targets",
+        "Build/Platforms/Xamarin/Xamarin.iOS.targets",
+        "Build/RIDs.targets",
+        "Build/ReferenceAssembly.targets",
+        "Build/Workarounds.props",
+        "Build/Workarounds.targets",
+        "DefaultItems/DefaultItems.props",
+        "DefaultItems/DefaultItems.targets",
+        "DefaultItems/ImplicitPackages.targets",
+        "DefaultItems/Platforms/Common.props",
+        "DefaultItems/Platforms/Common.targets",
+        "DefaultItems/Platforms/Desktop.VisualBasic.props",
+        "DefaultItems/Platforms/Desktop.VisualBasic.targets",
+        "DefaultItems/Platforms/Desktop.props",
+        "DefaultItems/Platforms/Desktop.targets",
+        "DefaultItems/Platforms/Xaml.props",
+        "DefaultItems/Platforms/Xaml.targets",
+        "ProjectSystem/ProjectSystem.props",
+        "ProjectSystem/ProjectSystem.targets",
+        "ProjectSystem/Rules/ApplicationDefinition.xaml",
+        "ProjectSystem/Rules/CSharp.ProjectItemsSchema.xaml",
+        "ProjectSystem/Rules/Page.xaml",
+        "ProjectSystem/Rules/ProjectItemsSchema.xaml",
+        "ProjectSystem/Rules/Resource.xaml",
+        "ProjectSystem/Rules/VisualBasic.ProjectItemsSchema.xaml",
+        "Sdk/Sdk.props",
+        "Sdk/Sdk.targets",
+        "msbuild.sdk.extras.3.0.38.nupkg.sha512",
+        "msbuild.sdk.extras.nuspec"
+      ]
+    },
+    "MSBuildTasks/1.5.0.235": {
+      "sha512": "pP/oxACREn0tIf8s05FLu9FuZoGRuztYHjy6HntPkhuwQ/dY62ZVlENuKNhUcUaNaSmM2QyR4Vi2Dt4eTqByRg==",
+      "type": "package",
+      "path": "msbuildtasks/1.5.0.235",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/MSBuildTasks.targets",
+        "msbuildtasks.1.5.0.235.nupkg.sha512",
+        "msbuildtasks.nuspec",
+        "tools/MSBuild.Community.Tasks.Targets",
+        "tools/MSBuild.Community.Tasks.dll",
+        "tools/MSBuild.Community.Tasks.xml",
+        "tools/MSBuild.Community.Tasks.xsd"
       ]
     },
     "Newtonsoft.Json/10.0.1": {
@@ -5807,10 +5939,13 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Dominio >= 1.0.0",
-      "Microsoft.EntityFrameworkCore >= 5.0.10",
-      "Microsoft.EntityFrameworkCore.Design >= 5.0.10",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.10",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.10"
+      "MSBuild.Microsoft.VisualStudio.Web.targets >= 14.0.0.3",
+      "MSBuild.Sdk.Extras >= 3.0.38",
+      "MSBuildTasks >= 1.5.0.235",
+      "Microsoft.EntityFrameworkCore >= 5.0.9",
+      "Microsoft.EntityFrameworkCore.Design >= 5.0.9",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.9",
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.9"
     ]
   },
   "packageFolders": {
@@ -5819,11 +5954,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\Persistencia\\Persistencia.csproj",
+      "projectUniqueName": "E:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\persistencia\\Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "E:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\Persistencia\\Persistencia.csproj",
+      "projectPath": "E:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\persistencia\\Persistencia.csproj",
       "packagesPath": "C:\\Users\\User M\\.nuget\\packages\\",
-      "outputPath": "E:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\Persistencia\\obj\\",
+      "outputPath": "E:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User M\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5854,25 +5989,33 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "MSBuild.Microsoft.VisualStudio.Web.targets": {
+            "target": "Package",
+            "version": "[14.0.0.3, )"
+          },
+          "MSBuild.Sdk.Extras": {
+            "target": "Package",
+            "version": "[3.0.38, )"
+          },
+          "MSBuildTasks": {
+            "target": "Package",
+            "version": "[1.5.0.235, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
-            "version": "[5.0.10, )"
+            "version": "[5.0.9, )"
           },
           "Microsoft.EntityFrameworkCore.Design": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
             "target": "Package",
-            "version": "[5.0.10, )"
+            "version": "[5.0.9, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
-            "version": "[5.0.10, )"
+            "version": "[5.0.9, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
             "target": "Package",
-            "version": "[5.0.10, )"
+            "version": "[5.0.9, )"
           }
         },
         "imports": [

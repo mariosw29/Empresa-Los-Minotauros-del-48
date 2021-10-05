@@ -1,0 +1,35 @@
+﻿@page
+@model DeleteModel
+@{
+    ViewData["Title"]="Eliminar";
+}
+<h1>Delete</h1>
+<br/>
+<p>¿ Esta seguro que desea eliminar el registro ?</p>
+<div>
+    <div class="row">
+            <div class="col-md-2">
+                @Html.DisplayNameFor(model => model.Persona.Id)
+            </div>
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.Persona.Id)
+            </div>
+            <div class="col-md-2">
+                @Html.DisplayNameFor(model => model.Persona.Nombre)
+            </div>
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.Persona.Nombre)
+            </div>
+    </div>
+</div>
+<br/>
+<form method="post">
+    <input type="hidden" asp-for ="Persona.Id" /> 
+    <input type="submit" value = "Eliminar" class="btn btn-danger" />
+
+    <br/>
+    <a asp-page="./List.cshtml">Regresar</a>
+</form>
+
+
+

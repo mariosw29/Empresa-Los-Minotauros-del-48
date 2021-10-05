@@ -4,7 +4,7 @@ namespace Dominio
 {
     public class Empleado : Persona
     {
-
+        
         //public int Id { get; set; }      
         public string Cargo { get; set; }
 

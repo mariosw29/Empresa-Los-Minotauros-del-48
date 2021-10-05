@@ -1,0 +1,42 @@
+﻿@page
+@model MyApp.Namespace.DetailModel
+@{
+    ViewData["Title"]="Detalle";
+}
+<h1>Detalle de persona</h1>
+
+<div>
+    <hr/>
+    <div class="row">
+        <div class="row">
+            <div class="col-md-2">
+                @Html.DisplayNameFor(model => model.Persona.Nombre)
+            </div>
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.Persona.Nombre)
+            </div>
+            <div class="col-md-2">
+                @Html.DisplayNameFor(model => model.Persona.Apellido)
+            </div>
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.Persona.Apellido)
+            </div>
+            <div class="col-md-2">
+                @Html.DisplayNameFor(model => model.Persona.Cedula)
+            </div>
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.Persona.Cedula)
+            </div>
+            <div class="col-md-2">
+                @Html.DisplayNameFor(model => model.Persona.Email)
+            </div>
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.Persona.Email)
+            </div>            
+        </div>
+    </div>
+
+</div>
+<div>
+    <a asp-page=".list">Regresar</a>
+</div>

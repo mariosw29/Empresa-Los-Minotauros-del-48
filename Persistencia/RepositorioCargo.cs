@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Dominio;
+using Microsoft.EntityFrameworkCore;
 
 namespace Persistencia
 {
@@ -37,7 +38,7 @@ namespace Persistencia
 
         public IEnumerable<Cargo> ListCargo()
         {
-            return _appContext.Cargos;
+            return _appContext.Cargos.AsNoTracking();
         }
 
         public Cargo UpdateCargo(Cargo cargo)
