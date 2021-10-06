@@ -155,16 +155,21 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/5.0.10": {
+      "Microsoft.EntityFrameworkCore.SqlServer/5.0.9": {
         "dependencies": {
           "Microsoft.Data.SqlClient": "2.0.1",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.10"
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.dll": {
-            "assemblyVersion": "5.0.10.0",
-            "fileVersion": "5.0.1021.41011"
+            "assemblyVersion": "5.0.9.0",
+            "fileVersion": "5.0.921.36501"
           }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Tools/5.0.9": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "5.0.10"
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/5.0.0": {
@@ -369,6 +374,9 @@
           }
         }
       },
+      "MSBuild.Microsoft.VisualStudio.Web.targets/14.0.0.3": {},
+      "MSBuild.Sdk.Extras/3.0.38": {},
+      "MSBuildTasks/1.5.0.235": {},
       "Newtonsoft.Json/10.0.1": {
         "dependencies": {
           "Microsoft.CSharp": "4.7.0",
@@ -1070,8 +1078,13 @@
       "Persistencia/1.0.0": {
         "dependencies": {
           "Dominio": "1.0.0",
+          "MSBuild.Microsoft.VisualStudio.Web.targets": "14.0.0.3",
+          "MSBuild.Sdk.Extras": "3.0.38",
+          "MSBuildTasks": "1.5.0.235",
           "Microsoft.EntityFrameworkCore": "5.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.10"
+          "Microsoft.EntityFrameworkCore.Design": "5.0.10",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.9",
+          "Microsoft.EntityFrameworkCore.Tools": "5.0.9"
         },
         "runtime": {
           "Persistencia.dll": {}
@@ -1148,12 +1161,19 @@
       "path": "microsoft.entityframeworkcore.relational/5.0.10",
       "hashPath": "microsoft.entityframeworkcore.relational.5.0.10.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.SqlServer/5.0.10": {
+    "Microsoft.EntityFrameworkCore.SqlServer/5.0.9": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-HyZK8UIsoI14uIMF6eNlg4lCzWWxRrwBVJ8ZJztOqhqQSO/3TX03MzoPnz/yMN5Hqv+2lbEp29wnuUowjGEcng==",
-      "path": "microsoft.entityframeworkcore.sqlserver/5.0.10",
-      "hashPath": "microsoft.entityframeworkcore.sqlserver.5.0.10.nupkg.sha512"
+      "sha512": "sha512-WGKYDApx75QRQ8LecGoPi5tvwHM8CvHz383U4c9zfW2Pjz+yUNUL4XAzLRlkg9QyE7USGk4VnAVNS0sTXK4qVQ==",
+      "path": "microsoft.entityframeworkcore.sqlserver/5.0.9",
+      "hashPath": "microsoft.entityframeworkcore.sqlserver.5.0.9.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Tools/5.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BdNfn6IzyD6r6XpjnOn7HuWKryVzT6TnDIH8MZLD3d/wLG24V0BYB1Dyr6wnAqgGXXCZxJf77YES5nobge56aA==",
+      "path": "microsoft.entityframeworkcore.tools/5.0.9",
+      "hashPath": "microsoft.entityframeworkcore.tools.5.0.9.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/5.0.0": {
       "type": "package",
@@ -1287,6 +1307,27 @@
       "sha512": "sha512-mtVirZr++rq+XCDITMUdnETD59XoeMxSpLRIII7JRI6Yj0LEDiO1pPn0ktlnIj12Ix8bfvQqQDMMIF9wC98oCA==",
       "path": "microsoft.win32.systemevents/4.7.0",
       "hashPath": "microsoft.win32.systemevents.4.7.0.nupkg.sha512"
+    },
+    "MSBuild.Microsoft.VisualStudio.Web.targets/14.0.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-38FjZFXUvPG9azsfJzC3UiW6+ogg2jPQBZxtAUV4ybIowiUuHgDS9M2EAeFPBivqiUgALqXh1BoAHSmTiT52gA==",
+      "path": "msbuild.microsoft.visualstudio.web.targets/14.0.0.3",
+      "hashPath": "msbuild.microsoft.visualstudio.web.targets.14.0.0.3.nupkg.sha512"
+    },
+    "MSBuild.Sdk.Extras/3.0.38": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EsLkgnnOe0j27O0KHQ2wqYxPZ6UrID9jGm2defZxshJ0Vu05NlvriakijzVFr0NOD/5OfhOUhxQ9qdY22U3+Kw==",
+      "path": "msbuild.sdk.extras/3.0.38",
+      "hashPath": "msbuild.sdk.extras.3.0.38.nupkg.sha512"
+    },
+    "MSBuildTasks/1.5.0.235": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pP/oxACREn0tIf8s05FLu9FuZoGRuztYHjy6HntPkhuwQ/dY62ZVlENuKNhUcUaNaSmM2QyR4Vi2Dt4eTqByRg==",
+      "path": "msbuildtasks/1.5.0.235",
+      "hashPath": "msbuildtasks.1.5.0.235.nupkg.sha512"
     },
     "Newtonsoft.Json/10.0.1": {
       "type": "package",

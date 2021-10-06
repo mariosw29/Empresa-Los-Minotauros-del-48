@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Persistencia;
@@ -17,15 +13,29 @@ namespace MyApp.Namespace
         public UpdateModel(IRepositorioPersona repoPersona){
             _repo = repoPersona;
         }
-        public IActionResult OnGet(int Id)
+        public void OnGet(int Id) 
         {
-            Persona = _repo.DetailPersona(Id);//_repo.UpdatePersona(Id);
-            if (Persona == null)
-            {
-               return RedirectToPage("./NotFound");
-            }
+            Persona = _repo.DetailPersona(Id); //_repo.UpdatePersona(Id);
+            //if (Persona == null)
+            //{
+               //null;//return RedirectToPage("./NotFound");
+            //}
             //else
                 //return Pages();
+        }
+
+        public IActionResult OnPost()
+        {
+            if(!ModelState.IsValid)
+            {
+                return Page();
+            }
+
+            if (Persona.Id > 0)
+            {
+                Persona = _repo.UpdatePersona(Persona);
+            }            
+            return RedirectToPage("./List");
         }
     }
 }

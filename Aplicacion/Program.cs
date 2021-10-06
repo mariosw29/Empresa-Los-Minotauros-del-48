@@ -7,7 +7,8 @@ namespace Aplicacion
     class Program
     {
         private static IRepositorioPersona _repoPersona = new  RepositorioPersona(new Persistencia.AplicacionContext());
-        private static IRepositorioPersona _repoEmpleado = new  RepositorioEmpleado(new Persistencia.AplicacionContext());
+        //private static IRepositorioPersona _repoEmpleado = new  RepositorioEmpleado(new Persistencia.AplicacionContext());
+        private static IRepositorioEmpleado _repoEmpleado = new  RepositorioEmpleado(new Persistencia.AplicacionContext());
         private static IRepositorioPersona _repoCliente = new  RepositorioCliente(new Persistencia.AplicacionContext());        
         private static IRepositorioCargo _repoCargo = new  RepositorioCargo(new Persistencia.AplicacionContext());
         private static IRepositorioEmpresa _repoEmpresa = new  RepositorioEmpresa(new Persistencia.AplicacionContext());
@@ -58,22 +59,22 @@ namespace Aplicacion
 
         private static void addPersonaE(){
             var persona = new Empleado{
-                Nombre = "Pepito",
-                Apellido = "Perez-Davila",
-                Cedula = 325000,
-                Email = "peito@gmail.com",
-                Cargo = "jefe-bodega",
-                Salario = 65400,
+                Nombre = "Claudia",
+                Apellido = "Garcia",
+                Cedula = 620011,
+                Email = "claudiodd@gmail.com",
+                Cargo = "jefe-de-Diego",
+                Salario = 3650000,
                 Directivo = "SI",
-                CodEmpleado = 1007
+                CodEmpleado = 1006
 
             };
-            _repoEmpleado.AddPersona(persona); 
+            _repoEmpleado.AddEmpleado(persona); 
         }
 
       
         private static void deletePersonaE(){
-            _repoEmpleado.DeletePersona(5);
+            _repoEmpleado.DeleteEmpleado(7);
         }
 
         private static void updatePersonaE(){
@@ -84,8 +85,14 @@ namespace Aplicacion
                 Directivo = "SI",
                 CodEmpleado = 1005
             };
-            _repoEmpleado.UpdatePersona(persona);
+            _repoEmpleado.UpdateEmpleado(persona);
         }
+
+            /*foreach (Empleado empleado in _repoEmpleado.ListPersona())
+            {
+                Console.WriteLine(empleado. + " - " + empleado.Sueldo);
+            }*/
+
         //************* fin Persona ********************
 
         // *************************** CRUD Persona Cliente *************************************

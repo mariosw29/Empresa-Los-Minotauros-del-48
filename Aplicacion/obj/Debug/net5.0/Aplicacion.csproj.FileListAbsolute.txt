@@ -67,6 +67,11 @@ E:\MINTIC2022\Ciclo 3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\Aplicaci
 E:\MINTIC2022\Ciclo 3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
 E:\MINTIC2022\Ciclo 3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
 E:\MINTIC2022\Ciclo 3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\Aplicacion.genruntimeconfig.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.AssemblyReference.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\bin\Debug\net5.0\Aplicacion.exe
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\bin\Debug\net5.0\Aplicacion.runtimeconfig.json
@@ -126,11 +131,6 @@ E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\bin\Debug\net5.0\Dominio.
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\bin\Debug\net5.0\Persistencia.dll
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\bin\Debug\net5.0\Dominio.pdb
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\bin\Debug\net5.0\Persistencia.pdb
-E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.AssemblyReference.cache
-E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
-E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
-E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
-E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
 E:\MINTIC2022\Ciclo_3\Programación\Empresa\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
