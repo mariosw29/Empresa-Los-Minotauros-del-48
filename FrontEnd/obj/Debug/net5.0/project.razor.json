@@ -15624,6 +15624,21 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\FrontEnd\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\FrontEnd\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\FrontEnd\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\FrontEnd\\Pages\\Persona\\Delete.cshtml",
       "TargetPath": "Pages\\Persona\\Delete.cshtml",
       "FileKind": "mvc"
@@ -15644,6 +15659,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\FrontEnd\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\FrontEnd\\Pages\\Cargo\\Detail.cshtml",
       "TargetPath": "Pages\\Cargo\\Detail.cshtml",
       "FileKind": "mvc"
@@ -15656,6 +15676,11 @@
     {
       "FilePath": "e:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\FrontEnd\\Pages\\Persona\\Create.cshtml",
       "TargetPath": "Pages\\Persona\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\FrontEnd\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15674,6 +15699,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\FrontEnd\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\FrontEnd\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15684,8 +15714,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\FrontEnd\\Pages\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\FrontEnd\\Pages\\Persona\\List.cshtml",
       "TargetPath": "Pages\\Persona\\List.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\MINTIC2022\\Ciclo_3\\Programación\\Empresa\\FrontEnd\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
